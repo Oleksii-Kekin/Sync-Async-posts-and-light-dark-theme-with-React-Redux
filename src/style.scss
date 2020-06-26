@@ -1,0 +1,33 @@
+html, body, #root {
+  min-height: 100vh;
+}
+
+.App {
+  min-height: 100vh;
+
+}
+ #theme {
+  transition: .2s all ease-in;
+   min-height: 100vh;
+   width: 100%;
+}
+
+ .dark {
+  background: #343a40;
+  color: #ffffff;
+}
+
+ .dark hr {
+  border-top: 1px solid rgba(0,0,0,.9);
+}
+
+ .dark .card {
+  background: #343a40;
+  border: 1px solid rgba(0,0,0,.85);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
