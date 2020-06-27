@@ -1,4 +1,4 @@
-import {CREATE_POST, FETCH_POSTS, REMOVE_CREATE_POST, REMOVE_FETCHED_POST, REMOVE_POST} from "./types";
+import {CREATE_POST, FETCH_POSTS, REMOVE_CREATE_POST, REMOVE_FETCHED_POST} from "./types";
 
 const initialState ={
     posts: [],

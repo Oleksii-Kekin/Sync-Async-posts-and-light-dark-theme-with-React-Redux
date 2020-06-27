@@ -5,7 +5,6 @@ import {
     HIDE_ALERT,
     HIDE_LOADING,
     REMOVE_CREATE_POST, REMOVE_FETCHED_POST,
-    REMOVE_POST,
     SHOW_ALERT,
     SHOW_LOADING
 } from "./types";

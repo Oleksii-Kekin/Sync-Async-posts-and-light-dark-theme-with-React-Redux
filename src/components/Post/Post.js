@@ -3,7 +3,6 @@ import './Post.scss'
 
 
 export default  ({ post, deleteSomePost }) => {
-    console.log(post);
     return (
         <div className="card">
             <div className="card-body">
